@@ -1,4 +1,4 @@
-- [PREVIEW LINK](https://khrulenko.github.io/National_Art_Museum/),
+- [PREVIEW LINK](https://khrulenko.github.io/EcoCosmetics/),
 - technology: HTML, CSS (grid, flexbox),
 - methodology: BEM,
 - preprocessing:  SASS,
